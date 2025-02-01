@@ -170,6 +170,11 @@ button:disabled:hover {
   background-image: url(../img/giftbox-elegible.svg);
 }
 
+.elegido {
+  text-decoration: line-through;
+  text-decoration-color: var(--color-2);
+}
+
 .elegido::before {
   background-image: url(../img/giftbox-elegido.svg);
 }

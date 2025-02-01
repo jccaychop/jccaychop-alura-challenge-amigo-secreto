@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg" href="./assets/img/giftbox-elegido.svg" />
@@ -48,12 +48,12 @@
             aria-labelledby="listaAmigos"
             role="list"
           >
-            <li class="elegible">Amigo</li>
-            <li class="elegido">Amiga</li>
+            <!-- <li class="elegible">Amigo</li>
+            <li class="elegido">Amiga</li> -->
           </ul>
 
           <ul id="resultado" class="result-list" aria-live="polite">
-            <li>El amigo secreto sorteado es: <span>Ganador</span></li>
+            <!-- <li>El amigo secreto sorteado es: <span>Ganador</span></li> -->
           </ul>
 
           <div class="button-container">
@@ -61,6 +61,7 @@
               class="button-draw"
               onclick="sortearAmigo()"
               aria-label="Sortear amigo secreto"
+              disabled
             >
               <img
                 src="./assets/img/play_circle_outline.png"
