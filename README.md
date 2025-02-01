@@ -5,7 +5,7 @@ _El presente Challnge, forma parte del curso Principiante en Programación G8 - 
 
 ## 🌐 Enlace al aplicativo:
 
-https://jccaychop.github.io/jccaychop-alura-challenge-amigo-secreto/
+<a href="https://jccaychop.github.io/jccaychop-alura-challenge-amigo-secreto/" target="_blank" rel="noopener noreferrer">Ver la aplicación</a>
 
 ## 🚀 Características
 
@@ -68,7 +68,7 @@ Este proyecto está bajo la licencia MIT.
 
 Autor de la imagen utilizada en el presente proyecto:
 
-[Imagen de pikisuperstar en Freepik](https://www.freepik.es/vector-gratis/concepto-contacto-landing-page_4663680.htm#fromView=search&page=3&position=20&uuid=996a2058-4632-4708-b2de-422871dbdbba&new_detail=true&query=amigos)
+<a href="https://www.freepik.es/vector-gratis/concepto-contacto-landing-page_4663680.htm#fromView=search&page=3&position=20&uuid=996a2058-4632-4708-b2de-422871dbdbba&new_detail=true&query=amigos " target="_blank" rel="noopener noreferrer">Imagen de pikisuperstar en Freepik</a>
 
 ---
 
